@@ -12,9 +12,11 @@
     "@types/node": "18.15.10",
     "@types/react": "18.0.30",
     "@types/react-dom": "18.0.11",
+    "canvas": "^2.11.2",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-easy-crop": "^4.7.4",
     "typescript": "5.0.2"
   }
 }
